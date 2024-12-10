@@ -22,8 +22,8 @@ Libraries:pandas, spacy, sklearn, tkinter.
 
 #Project Structure -
 ├── Job_Selection_based_on_Resume.py          # Main script to run the application
-├── resumes_with_positions.csv  # Output CSV file with the matching results
-├── README.md                  # Project documentation
+├── resumes_with_positions.csv                 # Output CSV file with the matching results
+├── README.md                                 # Project documentation
 ├── Job_Selection_based_on_UpdatedResume.py   
 ├── resumes_with_positions_Updated.csv 
 ├── requirements.txt
